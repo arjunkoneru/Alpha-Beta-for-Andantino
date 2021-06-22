@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Andantino2", "Andantino2\Andantino2.csproj", "{92F1FBFA-952F-435B-B347-31A7920395C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92F1FBFA-952F-435B-B347-31A7920395C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92F1FBFA-952F-435B-B347-31A7920395C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92F1FBFA-952F-435B-B347-31A7920395C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92F1FBFA-952F-435B-B347-31A7920395C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37B349D3-AE6D-4013-A54A-27B8FF96A81E}
+	EndGlobalSection
+EndGlobal
